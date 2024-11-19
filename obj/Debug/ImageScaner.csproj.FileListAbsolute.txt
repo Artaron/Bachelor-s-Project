@@ -1,0 +1,16 @@
+C:\Users\Max\source\repos\ImageScaner\bin\Debug\ImageScaner.exe.config
+C:\Users\Max\source\repos\ImageScaner\bin\Debug\ImageScaner.exe
+C:\Users\Max\source\repos\ImageScaner\bin\Debug\ImageScaner.pdb
+C:\Users\Max\source\repos\ImageScaner\obj\Debug\ImageScaner.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\ImageScaner\obj\Debug\ImageScaner.Form1.resources
+C:\Users\Max\source\repos\ImageScaner\obj\Debug\ImageScaner.Properties.Resources.resources
+C:\Users\Max\source\repos\ImageScaner\obj\Debug\ImageScaner.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\ImageScaner\obj\Debug\ImageScaner.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\ImageScaner\obj\Debug\ImageScaner.exe
+C:\Users\Max\source\repos\ImageScaner\obj\Debug\ImageScaner.pdb
+C:\Users\Max\source\repos\ImageScaner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Max\source\repos\ImageScaner\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Max\source\repos\ImageScaner\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Max\source\repos\ImageScaner\obj\Debug\ImageScaner.csproj.CopyComplete
+C:\Users\Max\source\repos\ImageScaner\bin\Debug\EasyArgs.dll
+C:\Users\Max\source\repos\ImageScaner\bin\Debug\StegoSharp.dll
